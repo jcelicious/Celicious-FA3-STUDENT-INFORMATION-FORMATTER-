@@ -4,7 +4,7 @@ last_name = input("Enter last name: ")
 section = input("Enter section: ")
 fav_sub = input("Enter favorite subject: ")
 
-print("\nFormatted output")
+print("Formatted output")
 print("NAME: ", first_name, last_name)
 print("NAME CODE: ", )
 print("SECTION: ", section)
